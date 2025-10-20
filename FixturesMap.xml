@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE FixturesMap>
+<FixturesMap xmlns="http://www.qlcplus.org/FixturesMap">
+  <M n="Generic">
+    <F n="Generic-Cheap-RGBW-PAR" m="RGBW PAR"/>
+  </M>
+  <M n="MagicFX">
+    <F n="MagicFX-Eco2Jet" m="Eco2Jet"/>
+    <F n="MagicFX-Psyco2Jet" m="Psyco2Jet"/>
+    <F n="MagicFX-SmokeJet" m="SmokeJet"/>
+    <F n="MagicFX-StadiumBlaster" m="StadiumBlaster"/>
+    <F n="MagicFX-StadiumBlower" m="StadiumBlower"/>
+    <F n="MagicFX-StadiumShot-III" m="StadiumShot-III"/>
+    <F n="MagicFX-Stage-Flame" m="Stage-Flame"/>
+    <F n="MagicFX-SwirlFan-II" m="SwirlFan-II"/>
+  </M>
+  <M n="Renkforce">
+    <F n="Renkforce-DL-SPLAD-2013" m="DL-SPLAD"/>
+  </M>
+  <M n="Showtec">
+    <F n="Showtec-Compact-PAR-Q4" m="Compact PAR Q4"/>
+    <F n="Showtec-GiantXL-LED" m="GiantXL LED"/>
+  </M>
+  <M n="Stairville">
+    <F n="Stairville-BEL6" m="BEL6"/>
+    <F n="Stairville-Remus-HexSpot-515" m="Remus HexSpot 515"/>
+    <F n="Stairville-QuadZoom-610" m="QuadZoom 610"/>
+    <F n="Stairville-RevueLED-120-COB-True-White" m="RevueLED 120 COB True White"/>
+  </M>
+  <M n="Varytec">
+    <F n="Varytec-Giga-Bar-LED-240-RGB" m="Giga Bar LED 240 RGB"/>
+  </M>
+</FixturesMap>
