@@ -11,6 +11,8 @@
     - StadiumShot III*
     - Stage Flame*
     - SwirlFan II*
+* Martin
+    - ERA 150 Wash*
 * Renkforce
     - DL-SLPAD (Flat PAR)
 * Showtec
